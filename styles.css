@@ -44,3 +44,21 @@ button:hover {
 button:active { 
     background-color: rgb(232,232,232);
 }
+
+#equals { 
+    background-color: rgb(218,2,2);
+}
+
+#equals:hover { 
+    background-color: rgb(198,1,1);
+}
+
+#clear { 
+    width: 100%; 
+    background-color: rgb(9, 60, 136);
+    font-size: 30px;
+}
+
+#clear:hover { 
+    background-color: rgb(20, 20, 120);
+}
